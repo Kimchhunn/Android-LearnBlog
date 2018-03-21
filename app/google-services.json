@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "324044221532",
+    "firebase_url": "https://learnblog-84636.firebaseio.com",
+    "project_id": "learnblog-84636",
+    "storage_bucket": "learnblog-84636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324044221532:android:1da467950b7f758d",
+        "android_client_info": {
+          "package_name": "com.blog.chhun.learnblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324044221532-pgtjig5sltir7v3347vc3jle2qur5a80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blog.chhun.learnblog",
+            "certificate_hash": "93af76e61d0419dd34e539da2d3ce1f74e0854a7"
+          }
+        },
+        {
+          "client_id": "324044221532-2stg6678flbac47nvalhs4bar8dhkc9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizb1oW6z2w2KO6gHtFL9DSjLkypprl40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324044221532-2stg6678flbac47nvalhs4bar8dhkc9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

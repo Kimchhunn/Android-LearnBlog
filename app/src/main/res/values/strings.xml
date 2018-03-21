@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">LearnBlog</string>
+    <string name="pass_hint">Password</string>
+    <string name="email_string">Email</string>
+    <string name="login_logo_desc">LoginLogo</string>
+    <string name="login_need_acc_text">Need an account?</string>
+    <string name="login_login_btn_txt">Login</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_acc_setting_text">Account Setting</string>
+    <string name="action_logout_text">Log Out</string>
+    <string name="reg_email">Email</string>
+    <string name="reg_pwd">Password</string>
+    <string name="reg_cfm_pwd">Confirm Password</string>
+    <string name="reg_logo_desc">RegLogo</string>
+    <string name="reg_create_new_acc_btn">Create New Account</string>
+    <string name="reg_alr_have_acc_btn">Already have an account</string>
 </resources>
