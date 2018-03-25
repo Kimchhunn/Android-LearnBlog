@@ -60,7 +60,8 @@ public class MainActivity extends AppCompatActivity {
         switch (item.getItemId()) {
             case R.id.action_log_out_btn:
                 logOut();
-
+            case R.id.action_settings_btn:
+                sendToSetUp();
         }
 
         return true;
@@ -75,5 +76,11 @@ public class MainActivity extends AppCompatActivity {
     private void logOut() {
         mAuth.signOut();
         sentToLogin();
+    }
+
+    private void sendToSetUp() {
+        Intent setupIntent = new Intent(this, SetupActivity.class);
+        startActivity(setupIntent);
+        finish();
     }
 }
