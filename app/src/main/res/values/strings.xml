@@ -14,6 +14,8 @@
     <string name="reg_logo_desc">RegLogo</string>
     <string name="reg_create_new_acc_btn">Create New Account</string>
     <string name="reg_alr_have_acc_btn">Already have an account</string>
-    <string name="setup_name_hint" >Your name ...</string>
+    <string name="setup_name_hint">Your name ...</string>
     <string name="setup_btn_txt">Save Acc Setting</string>
+    <string name="new_post_dscp">Add Description</string>
+    <string name="main_post_btn_txt">Post</string>
 </resources>
